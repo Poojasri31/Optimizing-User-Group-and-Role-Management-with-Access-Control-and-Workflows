@@ -1,1 +1,0 @@
-This project focuses on improving user group and role management within an organization by implementing secure access control mechanisms and automated workflows. The system ensures that users are assigned appropriate roles and permissions based on their responsibilities, reducing security risks and improving operational efficiency.
